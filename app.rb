@@ -8,5 +8,5 @@ configure :development do
 end
 
 get '/' do
-  'Hello world!'
+  'this is where the controller takes place'
 end
